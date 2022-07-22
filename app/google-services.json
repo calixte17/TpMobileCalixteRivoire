@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "903207967123",
+    "project_id": "tp-mobile-calixte-rivoire",
+    "storage_bucket": "tp-mobile-calixte-rivoire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903207967123:android:765b0d8823efa33bee3066",
+        "android_client_info": {
+          "package_name": "com.example.tpmobilecalixterivoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903207967123-grircfosjdjqvb5a1u7a3qqi62ruai8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWplUTVaSsBmhEDdIUt5IhSdm-VeJG5as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903207967123-grircfosjdjqvb5a1u7a3qqi62ruai8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903207967123:android:8dcb9a19413acd31ee3066",
+        "android_client_info": {
+          "package_name": "firebase.calixte.rivoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903207967123-grircfosjdjqvb5a1u7a3qqi62ruai8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWplUTVaSsBmhEDdIUt5IhSdm-VeJG5as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903207967123-grircfosjdjqvb5a1u7a3qqi62ruai8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
